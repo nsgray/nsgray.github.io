@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 Neal Gray
 ---
 I am a Security Engineer / Architect, living in Fernandina Beach, Florida, providing security solutions to SMB and enterprise organizations in the Southeast for over 15 years.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Blog Post 1
+subtitle: Placeholder for Blog Post 1
+gh-repo: nsgray/nsgray.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 ---

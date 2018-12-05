@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Neal Gray
+title: GrayLabs Home
 
 # Short description of your site
 description: A blog focused on offensive security and exploit development
