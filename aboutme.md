@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Neal Gray
+subtitle: Cyber Security Engineer, CISSP | Researcher & Enthusiast
+show-avatar: true
+bigimg:
+  - /img/bigimg/BeachBackdrop1.jpg : "Fernandina Beach, Florida"
 ---
+I am a Cyber Security Engineer living in Fernandina Beach, Florida.  I've been providing security solutions to SMB and enterprise organizations in the Southeast for over 15 years.  
 
-My name is Inigo Montoya. I have the following qualities:
+During this time, I have been involved with the sale, design, and implementation of intrusion detection systems, next-generation firewalls, messaging, and endpoint security using machine learning & anti-exploit technologies.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Currently, I am exploring offensive security techniques and exploit development.
